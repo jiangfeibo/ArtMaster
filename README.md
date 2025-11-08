@@ -36,9 +36,8 @@ cd TODO
 #### 原始数据
 
 <p align="center">
-  <img src="图片1链接" width="30%">
-  <img src="图片2链接" width="30%">
-  <img src="图片3链接" width="30%">
+  <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/origin_1.JPG" width="30%">
+  <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/origin_2.JPG" width="30%">
 </p>
 
 

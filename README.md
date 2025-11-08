@@ -1,5 +1,9 @@
 # Flux.1-dev-lora
 
+<div align="center">
+  <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/FLux.jpg" alt="image text" width="500px">
+</div>
+
 ## 项目简介
 
 FLUX.1系列模型于2024年由Black Forest Labs（BFL）发布，是该实验室迄今为止最具代表性的文本生成图像（Text-to-Image）模型家族。作为新一代生成式AI系统，FLUX.1在图像生成质量、文本指令理解能力以及视觉一致性等方面，均达到了业界领先水平，被广泛认为是继Stable Diffusion之后，开源图像生成领域的又一次重大突破。FLUX.1模型采用创新性的Flow Matching Transformer架构，将扩散模型的稳定性与Transformer的高效表示能力相结合，在图像细节呈现、语义理解、风格多样性和生成速度等多个维度实现了全面提升。BFL团队在开发过程中，针对图像清晰度、提示词遵从度（Prompt Adherence）以及复杂场景生成等关键问题进行了系统优化，使模型能够精准地理解文本语义，并生成符合创作者预期的高保真图像。
@@ -21,24 +25,45 @@ FLUX.1系列模型于2024年由Black Forest Labs（BFL）发布，是该实验�
 
 ## 安装与加载
 
-克隆本项目到本地：  TODO
+克隆本项目到本地：https://github.com/jiangfeibo/Flux.1-dev-lora
 
 git clone
 
-cd TODO
+cd Flux.1-dev-lora
 
 
 
 ## 模型测试
 
-在同样prompt的前提下，原始数据、基础模型、Lora模型的效果如下：
+在同样prompt的前提下，基础模型、Lora模型的生成效果如下：
 
-#### 原始数据
+| <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/Flux_1.jpg" width="250px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/Flux_2.png" width="250px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/lora_1.png" width="250px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/lora_2.png" width="250px"> |
+|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|
+| 图 1：Flux | 图 2：Flux | 图 3：Lora | 图 4：Lora |
 
-<p align="center">
-  <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/origin_1.JPG" width="30%">
-  <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/origin_2.JPG" width="30%">
-</p>
+其中，左边两幅图为Flux.1生成的图片，而右边两幅图则是在相同的prompt下加入Lora后生成的图片，由此可见Lora加入后效果明显。
+
+
+
+## 数据集
+
+本项目采用了曾晓浒大师的20幅作品作为数据集，为了更好的训练Lora，我们将20幅作品作为两组，并对作品进行裁剪，裁剪成了512×512和512×768。每种尺寸的图片各20张，为了让模型更好的学习到特征，训练时每张照片模型会学习10次。
+
+数据集链接：
+
+- https://github.com/jiangfeibo/Flux.1-dev-lora/tree/main/datasets/512%C3%97512
+
+- https://github.com/jiangfeibo/Flux.1-dev-lora/tree/main/datasets/512%C3%97768
+
+
+
+## 贡献者
+
+江沸菠，jiangfb@hunnu.edu.cn，湖南师范大学，副教授
+
+毛磊，2547219103@qq.com，湖南师范大学，在读研究生
+
+朱万运，湖南师范大学，在读研究生
 
 
 

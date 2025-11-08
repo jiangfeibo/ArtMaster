@@ -33,6 +33,15 @@ cd TODO
 
 在同样prompt的前提下，原始数据、基础模型、Lora模型的效果如下：
 
+#### 原始数据
+
+<p align="center">
+  <img src="图片1链接" width="30%">
+  <img src="图片2链接" width="30%">
+  <img src="图片3链接" width="30%">
+</p>
+
+
 
 
 

@@ -53,8 +53,8 @@ cd Flux.1-dev-lora
 
 | **原始图画** | **Flux 模型** | **曾晓浒 视觉模型** |
 |:---:|:---:|:---:|
-| <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/datasets/512%C3%97768/18.JPG" width="280px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/Flux_1.jpg" width="280px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/lora_1.png" width="280px"> |
-| <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/datasets/512%C3%97768/03.JPG" width="280px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/Flux_2.png" width="280px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/lora_2.png" width="280px"> |
+| <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/18.JPG" width="280px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/Flux_1.jpg" width="280px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/lora_1.png" width="280px"> |
+| <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/03.JPG" width="280px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/Flux_2.png" width="280px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/lora_2.png" width="280px"> |
 
 </div>
 
@@ -63,11 +63,6 @@ cd Flux.1-dev-lora
 曾晓浒（1938-2015）是湖南美术界极具代表性的山水画大家和美术教育家，在湘生活、教学、创作共五十四年，成就了其融贯南北画风、吸收西画光色、表现湖南地域风貌的山水画面貌。他提出的"真山真水真笔墨"的山水画美学观念，体现了崇"真"精神和写生创作方法的统一。他的作品既有岭南画派明丽色彩和强烈光影的运用，又创造性地在深涧幽谷中以纯色点画明亮的乔木，形成个性鲜明的艺术语言。他对翠绿色系和赭黄色系的偏好与创造性运用，形成了其独特的诗意氛围营造方式。曾晓浒被认为是美术史上第一个长期寄寓湖南并以一生努力开拓、发掘、创造湖南山水画资源并形成潇湘山水画派的画家，堪称一代宗师。
 
 
-## 数据集链接：
-
-- https://github.com/jiangfeibo/Flux.1-dev-lora/tree/main/datasets/512%C3%97512
-
-- https://github.com/jiangfeibo/Flux.1-dev-lora/tree/main/datasets/512%C3%97768
 
 
 

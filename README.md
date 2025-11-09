@@ -1,8 +1,6 @@
-# Flux.1-dev-lora
+# 曾晓浒视觉大模型
 
-<div align="center">
-  <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/FLux.jpg" alt="image text" width="500px">
-</div>
+| <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/cover_1.png" width="250px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/cover_2.png" width="250px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/lora_2.png" width="250px"> |
 
 ## 项目简介
 

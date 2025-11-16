@@ -51,7 +51,7 @@ cd ArtMaster
 
 <div align="center">
 
-| **原始图画** | **Flux 模型** | **曾晓浒 视觉模型** |
+| **原始图画** | **Flux 模型** | **ArtMaster** |
 |:---:|:---:|:---:|
 | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/18.JPG" width="280px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/Flux_1.jpg" width="280px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/lora_1.png" width="280px"> |
 | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/03.JPG" width="280px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/Flux_2.png" width="280px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/lora_2.png" width="280px"> |

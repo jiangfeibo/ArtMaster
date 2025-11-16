@@ -37,11 +37,11 @@
 
 ## 安装与加载
 
-克隆本项目到本地：https://github.com/jiangfeibo/Flux.1-dev-lora
+克隆本项目到本地：https://github.com/jiangfeibo/ArtMaster
 
 git clone
 
-cd Flux.1-dev-lora
+cd ArtMaster
 
 
 

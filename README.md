@@ -1,4 +1,4 @@
-# 曾晓浒视觉大模型
+# ArtMaster
 <div align="center">
 
 | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/cover_1.png" width="280px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/cover_2.png" width="280px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/lora_2.png" width="280px"> |

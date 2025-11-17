@@ -69,8 +69,8 @@ cd ArtMaster
 ## 贡献者
 
 指导老师：
-江沸菠，jiangfb@hunnu.edu.cn，湖南师范大学
-唐宏岳, 曾进
+江沸菠，jiangfb@hunnu.edu.cn，唐宏岳, 曾进，湖南师范大学
+
 
 模型设计与编程
 毛磊，202520294367@hunnu.edu.cn，湖南师范大学，在读研究生

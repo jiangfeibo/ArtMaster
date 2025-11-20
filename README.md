@@ -70,6 +70,8 @@ cd ArtMaster
 |:---:|:---:|:---:|
 | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/18.JPG" width="280px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/Flux_1.jpg" width="280px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/lora_1.png" width="280px"> |
 | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/03.JPG" width="280px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/Flux_2.png" width="280px"> | <img src="https://github.com/jiangfeibo/Flux.1-dev-lora/blob/main/README.assets/lora_2.png" width="280px"> |
+| <img src="https://github.com/jiangfeibo/ArtMaster/blob/main/README.assets/04.JPG" width="280px"> | <img src="https://github.com/jiangfeibo/ArtMaster/blob/main/README.assets/4_FLux.png" width="280px"> | <img src="https://github.com/jiangfeibo/ArtMaster/blob/main/README.assets/4_lora.png" width="280px"> |
+| <img src="https://github.com/jiangfeibo/ArtMaster/blob/main/README.assets/05.JPG" width="280px"> | <img src="https://github.com/jiangfeibo/ArtMaster/blob/main/README.assets/5_Flux.png" width="280px"> | <img src="https://github.com/jiangfeibo/ArtMaster/blob/main/README.assets/5_lora.png" width="280px"> |
 
 </div>
 
